@@ -6,6 +6,6 @@
   <li>Responsive design</li>
 </ul>
 
-<hr>
+
 <h2>~ Sohel Ansari</h2>
 
